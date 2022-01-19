@@ -1,0 +1,1 @@
+{"inputs": [[]], "outputs": [[{"class_name": "CastToInt32", "config": {}}, {"class_name": "SoftmaxPostprocessor", "config": {}}]]}
